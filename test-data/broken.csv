@@ -1,0 +1,4 @@
+id,name,amount,date
+1,"John Doe",150.00,2024-01-15
+2,"Jane Smith",275.50
+3,"Bob Wilson",100.00,2024-01-17,extra_field,another_extra
